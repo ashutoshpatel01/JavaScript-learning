@@ -1,10 +1,10 @@
 // dates  -> object hai
 
 let myDate = new Date()
-//console.log(myDate.toString()); // very long s
+//console.log(myDate.toString()); // very long string of date from 1940 in ms
 
 //let createDate = new Date(2024, 0, 22)
-//let createDate = new Date(2024, 0, 22, 5, 3,44)
+//let createDate = new Date(2024, 0, 22, 5, 3,44) // with date tome in hrs , min , secs and ms
 let createDate = new Date("01-14-2003")
 //console.log(createDate.toString());
 
